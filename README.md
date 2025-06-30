@@ -80,4 +80,8 @@ pip install -r requirements.txt
 for streamlit 
 streamlit run fraud_webapp.py
 
+for venv
+python -m venv venv
+venv\Scripts\activate
+
 
